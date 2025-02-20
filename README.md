@@ -1,1 +1,3 @@
-# Flash-card-learning-application-v0.3
+# Project Repository
+
+This is the initial README file for the project.
